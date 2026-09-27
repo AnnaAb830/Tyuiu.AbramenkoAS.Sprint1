@@ -35,7 +35,7 @@ namespace Tyuiu.AbramenkoAS.Sprint1.Task1.V30
 
 
             Console.WriteLine(ds.Calculate(x));
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
