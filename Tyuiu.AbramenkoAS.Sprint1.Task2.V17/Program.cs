@@ -33,7 +33,7 @@ namespace Tyuiu.AbramenkoAS.Sprint1.Task2.V17
 
             Console.WriteLine("Время в часах: " + ds.ConvertMinutesToHours(x));
 
-            Console.ReadLine();
+            Console.ReadKey();
 
 
         }
