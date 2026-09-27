@@ -10,7 +10,7 @@ namespace Tyuiu.AbramenkoAS.Sprint1.Task1.V30
             Console.Title = "Спринт #1 | Выполнила: Абраменко А. С. | ИБКСб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #30                                                             *");
             Console.WriteLine("* Выполнила: Абраменко Анна Сергеевна | ИБКСб-26-1                        *");
